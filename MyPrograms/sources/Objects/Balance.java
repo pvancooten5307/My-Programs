@@ -2,6 +2,8 @@ package Objects;
 
 public class Balance {
 	
+	//this is a comment on GitHub
+	
 	double amount;
 	long lastWorked; 
 	
